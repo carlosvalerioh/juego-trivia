@@ -1,0 +1,51 @@
+[
+{
+  "categoria": "Ciencia",
+  "pregunta": "¿Qué es la fotosíntesis?",
+  "respuesta": "Es el proceso por el cual las plantas verdes y algunos organismos usan la luz del sol para transformar el CO2 y el agua en azúcares y oxígeno.",
+  "incorrecta1": "Es el nombre del moviemiento que hace la tierra",
+  "incorrecta2": "Es el nombre del primer dinosaurio",
+  "incorrecta3": "Es el nombre de un inscto diminuto ",
+  "imagen": "https://significado.com/img/cien/fotosintesis-trabajo-planta.jpg",
+  "objectFit": "cover"
+},
+{
+  "categoria": "Ciencia",
+  "pregunta": "¿Cómo puede ser que el Universo sea infinito?",
+  "respuesta": "El universo puede ser infinito, pero nosotros solamente podemos ver una parte finita del mismo por causa de la velocidad -también finita- de la luz.",
+  "incorrecta1": "El universo puede ser infinito porque es tan extenso como los granos de arena",
+  "incorrecta2": "El universo es infinito porque no tiene fin",
+  "incorrecta3": "El universo es infinito porque hay seres de otro mundo",
+  "imagen": "https://concepto.de/wp-content/uploads/2014/08/universo-e1551279332781.jpg",
+  "objectFit": "cover"
+},
+{
+  "categoria": "Ciencia",
+  "pregunta": "¿Por qué el Sol es tan grande y no hay humanos viviendo allí?",
+  "respuesta": "No es tan grande: es mucho más pequeño que la mayoría de estrellas que puedes ver en el cielo. ¿Vivir allí? Imposible: ¡nos moriríamos de calor! ",
+  "incorrecta1": "Porque está muy lejos",
+  "incorrecta2": "Porque el universo es gigante",
+  "incorrecta3": "Porque tiene una forma circular",
+  "imagen": "https://www.lifeder.com/wp-content/uploads/2019/11/el-sol-NASA-estrellas-min-1024x660.jpg",
+  "objectFit": "cover"
+},
+{
+  "categoria": "Csiencia",
+  "pregunta": "¿Cómo llegaron las estrellas al cielo?",
+  "respuesta": "Colapsaron bajo su propia gravedad desde las grandes nubes de gas que dejó el Big Bang.",
+  "incorrecta1": "Porque se sentían con ganas de aventura",
+  "incorrecta2": "Porque el universo es muy caliente",
+  "incorrecta3": "Porque las estrellas son polvo infinito",
+  "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg"
+},
+{
+  "categoria": "Ciencia",
+  "pregunta": "¿Por qué el cielo es azul?",
+  "respuesta": "Ernest Hemingway",
+  "incorrecta1": "Porque Dios así lo creo",
+  "incorrecta2": "Poorque no había otro color",
+  "incorrecta3": "Porque así se ve bonito",
+  "imagen": "https://static1.burgosconecta.es/www/multimedia/202002/14/media/cortadas/cieloazul1-k1zG-U100155473657HzH-1968x1216@RC.jpg"
+}
+
+]
