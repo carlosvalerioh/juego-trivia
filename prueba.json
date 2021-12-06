@@ -41,7 +41,7 @@
 {
   "categoria": "Ciencia",
   "pregunta": "¿Por qué el cielo es azul?",
-  "respuesta": "Ernest Hemingway",
+  "respuesta": "La luz que llega del Sol ingresa en la atmósfera y se dispersa en todas las direcciones. La luz azul tiene una longitud de onda más corta, por lo que se dispersa más que las luces rojas y amarillas, dándonos la impresión de que ocupa todo el cielo.",
   "incorrecta1": "Porque Dios así lo creo",
   "incorrecta2": "Poorque no había otro color",
   "incorrecta3": "Porque así se ve bonito",
